@@ -6,7 +6,7 @@
 	],
 	"settings": {
 		"githubPullRequests.remotes": [
-			"account"
+			"https://github.com/Serhep/account"
 		]
 	}
 }
